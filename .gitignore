@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Data
+data/
+processed_data/
+results/
+submissions/
+
+# System
+.DS_Store
+.vscode/
+.idea/
